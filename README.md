@@ -3,7 +3,7 @@
     My name is Ryan Jacks.  I'm from Canada, living in Stoneham-et-Tewkesbury and currently working as a Full-time Full-stack Developer at Tero Labs. You can find me on Talagram, or on LinkedIn.
 <br></br>
 <h3>🧐 About Me</h3>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" margin-right="150px" width="150">
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" padding-right="150px" width="150">
 <h4 align="left">
     - 〆 Full-Stack🎯 and Blockchain  Developer 👨🏻‍💻 
     <br>
@@ -74,3 +74,4 @@
             <img src="https://github-profile-trophy.vercel.app/?username=JinKim&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
         </div>
         <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
+          
