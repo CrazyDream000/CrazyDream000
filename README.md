@@ -6,15 +6,21 @@
 <h4 align="left">
     - 〆 Full-Stack🎯 and Blockchain  Developer 👨🏻‍💻 
     <br>
+    <br>
     - 〆 Bachelor's degree in Computer Science and Technology</a> 🎓
     <br>
+    <br>
     - 〆 Creating open-source web, mobile and desktop apps 🛠️
+    <br>
     <br> 
     - 〆 Learning Never Stops 🚀
     <br>
+    <br>
     - 〆 Ready to help others.🌱
     <br>
+    <br>
     - 〆 Looking to collaborate on **Open source contributions**
+    <br>
     <br>
     - 💬 Ask me about **react, vue, Solidity**
 </h4>
