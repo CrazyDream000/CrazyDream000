@@ -1,13 +1,20 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Ryan Jacks </a></h1>
 <br/>   
+
+## 🧐 About Me
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 <div align="left">
-    - 〆 Full-Stack🎯 and Blockchain Developer 👨🏻‍💻 <br>
-    - 〆 Bachelor's degree in Computer Science from the [University of Engineering & Technology Lahore](https://www.teluq.ca/site/en/) 🎓
-    <br> 
-    - 🌱 Learning Never Stops 🚀
+    - 〆 Full-Stack🎯 and Blockchain  Developer 👨🏻‍💻 
     <br>
-    - 👯 I’m looking to collaborate on **Open source contributions**
+    - 〆 Bachelor's degree in Computer Science and Technology</a> 🎓
+    <br>
+    - 〆 Creating open-source web, mobile and desktop apps 🛠️
+    <br> 
+    - 〆 Learning Never Stops 🚀
+    <br>
+    - 〆 Ready to help others.🌱
+    <br>
+    - 〆 Looking to collaborate on **Open source contributions**
     <br>
     - 💬 Ask me about **react, vue, Solidity**
 </div>
