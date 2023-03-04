@@ -3,7 +3,7 @@
 
 ## 🧐 About Me
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
-<div align="left">
+<h4 align="left">
     - 〆 Full-Stack🎯 and Blockchain  Developer 👨🏻‍💻 
     <br>
     - 〆 Bachelor's degree in Computer Science and Technology</a> 🎓
@@ -17,7 +17,7 @@
     - 〆 Looking to collaborate on **Open source contributions**
     <br>
     - 💬 Ask me about **react, vue, Solidity**
-</div>
+</h4>
 <h3 align="left">Web Tech Stack :</h3>
     <div align="left">
         <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -56,14 +56,14 @@
     <table width="100%">
         <tr>
           <td>
-            <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mooney0129&show_icons=true&hide_border=true" /> 
+            <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mooney0129&theme=dark&show_icons=true&hide_border=true" /> 
           </td>
           <td> 
-            <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooney0129&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
+            <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooney0129&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
           </td>
         </tr>
       <table>
         <div align="center"  width="100%">
-            <img src="https://github-profile-trophy.vercel.app/?username=mooney0129&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
+            <img src="https://github-profile-trophy.vercel.app/?username=JinKim&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
         </div>
         <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
