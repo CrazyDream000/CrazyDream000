@@ -2,7 +2,7 @@
 <br/>   
     My name is Ryan Jacks.  I'm from Canada, living in Stoneham-et-Tewkesbury and currently working as a Full-time Full-stack Developer at Tero Labs. You can find me on Talagram, or on LinkedIn.
 <br></br>
-## <h3>🧐 About Me</h3>
+## 🧐 About Me
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 <h4 align="left">
     - 〆 Full-Stack🎯 and Blockchain  Developer 👨🏻‍💻 
@@ -60,21 +60,21 @@
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
+
+## GitHub Stats
+
+<table width="100%">
+    <tr>
+        <td>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mooney0129&show_icons=true&hide_border=true" /> 
+        </td>
+        <td> 
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooney0129&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
+        </td>
+    </tr>
+    <table>
+    <div align="center"  width="100%">
+        <img src="https://github-profile-trophy.vercel.app/?username=JinKim&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
     </div>
-
-    ## &#x1f4c8; GitHub Stats
-
-    <table width="100%">
-        <tr>
-          <td>
-            <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mooney0129&show_icons=true&hide_border=true" /> 
-          </td>
-          <td> 
-            <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooney0129&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
-          </td>
-        </tr>
-      <table>
-        <div align="center"  width="100%">
-            <img src="https://github-profile-trophy.vercel.app/?username=JinKim&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
-        </div>
-        <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
+    <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
