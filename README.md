@@ -1,13 +1,14 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Ryan Jacks </a></h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Mooney </a></h1>
 <br/>   
-
-## 🧐 About Me
+    My name is Ryan Jacks.  I'm from Canada, living in Stoneham-et-Tewkesbury and currently working as a Full-time Full-stack Developer at Tero Labs. You can find me on Talagram, or on LinkedIn.
+<br></br>
+    ## 🧐 About Me
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 <h4 align="left">
     - 〆 Full-Stack🎯 and Blockchain  Developer 👨🏻‍💻 
     <br>
     <br>
-    - 〆 Bachelor's degree in Computer Science and Technology</a> 🎓
+    - 〆 Bachelor's degree in Computer Science</a> 🎓
     <br>
     <br>
     - 〆 Creating open-source web, mobile and desktop apps 🛠️
@@ -24,7 +25,7 @@
     <br>
     - 💬 Ask me about **react, vue, Solidity**
 </h4>
-<h3 align="left">Web Tech Stack :</h3>
+<h3 align="left">🛠️ Web Tech Stack :</h3>
     <div align="left">
         <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
         <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
