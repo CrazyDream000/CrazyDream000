@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Mooney </a></h1>
 <br/>   
-    My name is Ryan Jacks.  I'm from Canada and currently working as a Full-time Blockchain Developer at Tero Labs. You can find me on Talagram, or on LinkedIn.
+    My name is Ryan Jacks.  I'm from Canada and currently working as a Full-time Blockchain Developer at Upwork. You can find me on Talagram, or on LinkedIn.
 <br/>
  <img align="right" width="350px" height="250px" alt="aj7t" src="https://i.imgur.com/HeYsOD4.gif"/> 
 ## About me
