@@ -2,7 +2,7 @@
 <br/>   
 ## About me
 <h4 align="left">
-    - 〆 Full-Stack🎯 and Blockchain  Developer 👨🏻‍💻 
+    - 〆 Blockchain Engineer🎯 and AI  Developer 👨🏻‍💻 
     <br>
     <br>
     - 〆 Bachelor's degree in Computer Science</a> 🎓
