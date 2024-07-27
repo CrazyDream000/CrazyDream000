@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Blockchain Full Stack Engineer </a></h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Blockchain Full Stack Engineer & AI Developer </a></h1>
 <br/>   
 ## About me
 <h4 align="left">
