@@ -2,7 +2,7 @@
 <br/>   
 ## About me
 <h4 align="left">
-    - 〆 Blockchain Engineer🎯 and Full Stack Developer 👨🏻‍💻 
+    - 〆 Full Stack Engineer 👨🏻‍💻 
     <br>
     <br>
     - 〆 Bachelor's degree in Computer Science</a> 🎓
@@ -11,16 +11,16 @@
     - 〆 Creating open-source web, and desktop apps 🛠️
     <br>
     <br> 
-    - 〆 Learning Never Stops 🚀
+    - 〆 Expertized in AI/ML 🚀
     <br>
     <br>
-    - 〆 Ready to help others.🌱
+    - 〆 Possess excellent skills in UX/UI design.🌱
     <br>
     <br>
     - 〆 Looking to collaborate on **Open source contributions**
     <br>
     <br>
-    - 💬 Ask me about **react, vue, Solidity**
+    - 💬 Ask me about **React, Vue, Solidity, Python**
 </h4>
 
 <h3 align="left">🛠️ Web Tech Stack :</h3>
