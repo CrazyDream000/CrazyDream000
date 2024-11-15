@@ -1,8 +1,8 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Blockchain Engineer & AI Backend Developer </a></h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Blockchain & Backend Engineer </a></h1>
 <br/>   
 ## About me
 <h4 align="left">
-    - 〆 Blockchain Engineer & AI Backend Developer (AI/ML, Blockchain) 👨🏻‍💻 
+    - 〆 Blockchain & Backend Engineer (Backend, Blockchain) 👨🏻‍💻 
     <br>
     <br>
     - 〆 Bachelor's degree in Computer Science</a> 🎓
@@ -10,17 +10,11 @@
     <br>
     - 〆 Creating open-source web, and desktop apps 🛠️
     <br>
-    <br> 
-    - 〆 Expertized in AI/ML 🚀
-    <br>
-    <br>
-    - 〆 Possess excellent skills in UX/UI design.🌱
-    <br>
     <br>
     - 〆 Looking to collaborate on **Open source contributions**
     <br>
     <br>
-    - 💬 Ask me about **React, Vue, Solidity, Python**
+    - 💬 Ask me about **React, Vue, Solidity, Deno JS, Python**
 </h4>
 
 <h3 align="left">Languages :</h3>
