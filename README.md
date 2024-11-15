@@ -1,8 +1,8 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Blockchain Engineer & Full Stack AI Developer </a></h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Blockchain Engineer & Backend Developer </a></h1>
 <br/>   
 ## About me
 <h4 align="left">
-    - 〆 Blockchain Engineer & Full Stack Developer (AI/ML, Blockchain) 👨🏻‍💻 
+    - 〆 Blockchain Engineer & AI Backend Developer (AI/ML, Blockchain) 👨🏻‍💻 
     <br>
     <br>
     - 〆 Bachelor's degree in Computer Science</a> 🎓
