@@ -14,7 +14,7 @@
     - 〆 Looking to collaborate on **Open source contributions**
     <br>
     <br>
-    - 💬 Ask me about **React, Vue, Solidity, Deno JS, Python**
+    - 💬 Ask me about **React, Deno JS, Python, Vue, Solidity, Rust**
 </h4>
 
 <h3 align="left">Languages :</h3>
